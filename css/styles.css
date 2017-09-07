@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css?family=Rubik');
+@import url('https://fonts.googleapis.com/css?family=Raleway:300');
+
+body {
+	font-family: "Rubik", sans-serif;
+}
+
+
+/* 设置Logo的高宽、外边距、圆角*/
+.circle-logo {
+    margin-top: 20px;
+    width: 12em;
+    height: 12em;
+    border-radius: 50%;
+}
+
+
+/* 设置标题的字体、大小、对齐方式、字母大小写*/
+.header-text {
+	font-family: "Raleway", sans-serif;
+	font-size: 40px;
+    text-align: right;
+    text-transform: uppercase;
+}
+
+.text-h1 {
+	font-size: 100%;
+	margin-top: 2em;
+}
+
+
+/* 分隔线*/
+hr {
+    display: block;
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: solid;
+    border-width: 4px;
+    border-color: #7d97ad;
+}
+
+
+.text-h2 {
+	font-family: Verdana;
+	margin-top: 1.5em;
+	margin-left: 1em;
+	color: #7d97ad;
+}
+
+
+
+
